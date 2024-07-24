@@ -1,0 +1,76 @@
+{
+    "torres": [
+        {
+            "id": "T1",
+            "nome": "Torre A",
+            "endereco": "Rua A, 123"
+        },
+        {
+            "id": "T2",
+            "nome": "Torre B",
+            "endereco": "Rua B, 456"
+        }
+    ],
+    "apartamentos": [
+        {
+            "id": "A1",
+            "numero_apartamento": 101,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A2",
+            "numero_apartamento": 102,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A3",
+            "numero_apartamento": 103,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A4",
+            "numero_apartamento": 104,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A5",
+            "numero_apartamento": 105,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A6",
+            "numero_apartamento": 106,
+            "torre_id": "T2"
+        },
+        {
+            "id": "A7",
+            "numero_apartamento": 107,
+            "torre_id": "T2"
+        },
+        {
+            "id": "A8",
+            "numero_apartamento": 108,
+            "torre_id": "T2"
+        },
+        {
+            "id": "A9",
+            "numero_apartamento": 109,
+            "torre_id": "T2"
+        },
+        {
+            "id": "A10",
+            "numero_apartamento": 110,
+            "torre_id": "T2"
+        },
+        {
+            "id": "A11",
+            "numero_apartamento": 111,
+            "torre_id": "T1"
+        },
+        {
+            "id": "A12",
+            "numero_apartamento": 112,
+            "torre_id": "T2"
+        }
+    ]
+}
